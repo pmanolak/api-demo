@@ -4,7 +4,7 @@
   "license": "MIT",
   "dependencies": {
     "@bity/oauth2-auth-code-pkce": "^2",
-    "bootstrap": "^6",
+    "bootstrap": "^5",
     "chessground": "^8.2.1",
     "chessops": "^0.10.5",
     "page": "^1",
